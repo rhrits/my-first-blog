@@ -1,7 +1,7 @@
 export const siteConfig = {
     name: "HritikBlog",
     url: "https://example.com",
-    description: "Nextjs 14 blog using velite, tailwind and shadcn",
+    description: "This space is dedicated to sharing the latest in technology and coding. Here, you'll find insightful articles and updates designed to help you stay ahead in the ever-evolving world of tech.",
     author: "Hritik",
     links: {
       twitter: "https://x.com/rhrits",
