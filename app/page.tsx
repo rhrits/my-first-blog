@@ -15,11 +15,12 @@ export default function Home() {
             Hello, I&apos;m Hritik
           </h1>
           <p className="max-w-[42rem] mx-auto text-muted-foreground sm:text-xl text-balance">
-          Welcome to my blog, built with Tailwind, Shadcn, Velite, and Next.js 14. 
+          Welcome to my blog,
           Here, you'll find the latest tech and coding insights. Dive in and explore!
 
 
           </p>
+          
           <div className="flex flex-col gap-4 justify-center sm:flex-row">
             <Link
               href="/blog"
@@ -54,7 +55,7 @@ export default function Home() {
                   title={post.title}
                   description={post.description}
                   date={post.date}
-                  tags={post.tags}
+                  
                 />
               </li>
             )
