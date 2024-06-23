@@ -32,14 +32,7 @@ export default async function AboutPage() {
           </p>
         </div>
         <p className="text-muted-foreground text-lg py-4">
-        I'm an innovative and driven Full Stack Developer and DevOps Engineer with a passion for delivering high-quality 
-        software solutions. My journey in technology has equipped me with a deep understanding of the MERN stack,
-         allowing me to build scalable and efficient applications. My expertise doesn't stop at development; 
-         I excel in optimizing development pipelines to ensure seamless project execution. 
-         With a focus on continuous learning and staying ahead of industry trends, I bring a fresh perspective and 
-         cutting-edge solutions to every project. Join me as I share insights, tips, and experiences from the world 
-         of full stack development and DevOps.
-
+        I'm an innovative and driven Full Stack Developer and DevOps Engineer with a passion for delivering high-quality software solutions.
         </p>
       </div>
     </div>
