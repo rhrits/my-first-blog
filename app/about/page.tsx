@@ -32,7 +32,7 @@ export default async function AboutPage() {
           </p>
         </div>
         <p className="text-muted-foreground text-lg py-4">
-        I'm an innovative and driven Full Stack Developer and DevOps Engineer with a passion for delivering high-quality software solutions.
+            I am an innovative abd driven Full Stack Developer and Devops Engineer with a passion for delivering high-quality software solutions.
         </p>
       </div>
     </div>

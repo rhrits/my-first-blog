@@ -15,8 +15,7 @@ export default function Home() {
             Hello, I&apos;m Hritik
           </h1>
           <p className="max-w-[42rem] mx-auto text-muted-foreground sm:text-xl text-balance">
-          Welcome to my blog, Here, you'll find the latest tech and coding insights. Dive in and explore!
-
+            Welcome to my blog, Here you will find latest tech and coding insights. Dive in and explore !
 
           </p>
           
