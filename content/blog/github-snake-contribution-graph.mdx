@@ -1,6 +1,45 @@
 ---
-title: ""
-description: 
+title: "Github Snake Contribution Graph"
+description: How to add a snake game to your contribution graph on Github
 date: 2024-09-23
 published: true
 ---
+
+
+When I visit someones GitHub profile, the first thing that catches my eye is the contribution graph. While I know it does not offer much useful information, I enjoy seeing the patterns and images created by the different color shades.
+
+Crafting any sort of image on a contribution graph is quite tricky because it requires daily dedication. Here is an example of one such graph:
+
+It is common to see bootcamp graduates and aspiring developers commit frequently to showcase their hard work and dedication. However, seasoned developers often have private repositories, so we miss out on seeing their contributions. Too bad for those of us who enjoy checking them out!
+
+If you want to make your GitHub profile stand out and impress people like me, let me show you how to add a fun snake game to your contribution graph.
+
+### Step 1:
+Start by creating a new repository using your GitHub username (make sure it matches exactly). GitHub will let you know that this is a special repository, and anything you add to it will appear on your profile. Ensure it is public and initialize it with a README file.
+
+### Step 2:
+Visit my [README repository](https://github.com/rhrits/rhrits) to access the necessary files.
+
+### Step 3:
+Copy the gif file from my README and paste it into your newly created README. Be sure to replace your username and update the contact information in the Contact section. Feel free to customize the Skills section to display your expertise.
+
+Remember to change your username where it says:
+`![Snake animation](substitute your username in the link here)`
+
+
+### Step 4:
+Navigate to the file `Create main.yml` in my README repository and copy all of its contents.
+
+### Step 5:
+In your README repository, go to the "Actions" tab and create a new workflow. This will automatically generate a `.github/workflows` folder and a new file named `Create main.yml` or `main.yml`.
+
+### Step 6:
+Delete everything in the newly created `Create main.yml` or `main.yml` file and paste the code you copied from my `Create main.yml`.
+
+### Step 7:
+Replace  username with yours in the line `github_user_name: `.
+
+### Step 8:
+Now, go to "View runs" and click "Run workflow." Your contribution graph will update every 12 hours, but you can adjust this in your `.yml` file if needed.
+
+Follow these steps, and soon your GitHub profile will have a fun, interactive snake game for everyone to see!
