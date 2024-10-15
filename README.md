@@ -82,10 +82,10 @@ git checkout -b feature/YourFeature
 ```bash
 
 git commit -m 'Add your feature'
-``
+```
 
-Push to the branch:
-bash
-Copy code
+4. **Push to the branch:**
+```bash
+
 git push origin feature/YourFeature
-Open a pull request.
+```
