@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Udemy Course Checkbox Automation Script"
 description: 
 date: 2024-02-24
 published: false
@@ -10,7 +10,7 @@ published: false
 
 # Udemy Course Checkbox Automation Script
 
-This repository contains a JavaScript script to automate the expansion of all course sections and check all checkboxes on Udemy course pages. This script can be run directly in the browser's developer console.
+This blog contains a JavaScript script to automate the expansion of all course sections and check all checkboxes on Udemy course pages. This script can be run directly in the browser's developer console.
 
 ## Table of Contents
 - [Features](#features)
