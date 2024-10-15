@@ -13,8 +13,6 @@ Welcome to the Modern and Responsive Blog Platform! This project is built with *
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
