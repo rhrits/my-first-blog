@@ -69,15 +69,21 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 ## Steps to Contribute:
 
-**Fork the repository.**
-Create a new branch:
-bash
+1. **Fork the repository.**
+2. **Create a new branch:**
+
+```bash
 
 git checkout -b feature/YourFeature
-Make your changes and commit them:
-bash
-Copy code
+```
+
+3. **Make your changes and commit them:**
+
+```bash
+
 git commit -m 'Add your feature'
+``
+
 Push to the branch:
 bash
 Copy code
