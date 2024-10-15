@@ -1,6 +1,7 @@
 Here’s a comprehensive README template for your blog platform project that you can use in your GitHub repository:
 
 ---
+[Website](https://www.hrits.tech/)
 
 # Modern and Responsive Blog Platform
 
@@ -37,7 +38,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
 ```bash
-   git clone https://github.com/rhrits/my-first-blog.git
+git clone https://github.com/rhrits/my-first-blog.git
 ``` 
 
 2. **Navigate to the project directory**:
