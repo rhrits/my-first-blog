@@ -1,6 +1,6 @@
 ---
 title: "Udemy Course Checkbox Automation Script"
-description: 
+description: Automate expanding Udemy course sections and checking lesson completion with this simple JavaScript script.
 date: 2024-02-24
 published: false
 ---
@@ -10,25 +10,21 @@ published: false
 
 # Udemy Course Checkbox Automation Script
 
-This blog contains a JavaScript script to automate the expansion of all course sections and check all checkboxes on Udemy course pages. This script can be run directly in the browser's developer console.
+This blog post provides a JavaScript automation script designed to simplify the process of expanding all course sections and checking lesson completion checkboxes on Udemy. By running this script directly in the browser's developer console, users can easily mark their progress across multiple lessons and expand all course content with a single command. The post includes step-by-step instructions for using the script, making it an essential tool for Udemy course takers looking to streamline their learning experience.
 
 ## Table of Contents
 - [Features](#features)
-- [Setup Instructions](#setup-instructions)
 - [How to Use](#how-to-use)
   - [Step 1: Open Udemy Course Page](#step-1-open-udemy-course-page)
   - [Step 2: Open the Browser Console](#step-2-open-the-browser-console)
   - [Step 3: Copy and Paste the Script](#step-3-copy-and-paste-the-script)
   - [Step 4: Run the Script](#step-4-run-the-script)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - **Expand Course Sections:** Automatically clicks and expands all course sections that may be collapsed.
 - **Checkbox Automation:** Automatically checks all lesson completion checkboxes within a course.
-
-## Setup Instructions
-You don't need to clone the repository to use this script. You can simply copy the code from the script section below and paste it into the developer console of your browser.
 
 ## How to Use
 
@@ -82,5 +78,4 @@ If you would like to contribute to this project, you can follow these steps:
 2. Make your changes.
 3. Create a pull request with a detailed explanation of your changes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
