@@ -176,7 +176,7 @@ These steps should resolve the issues.
 
 ![image.png](image.png)
 
-- Go too root directory by `cd ..`  and create a directory for build
+- Go too root directory by `cd`  and create a directory for build
 
 ```bash
 sudo mkdir -p /var/www/vhosts/frontend/
@@ -236,7 +236,7 @@ To save this vim file type `:wq` and press enter.
 sudo ln -s /etc/nginx/sites-available/<nginx-file-name> /etc/nginx/sites-enabled/
 ```
 
-**Step 8: Start the Application**
+**Start the Application**
 
 - Restart Nginx and allow the changes to take place.
     
@@ -299,16 +299,16 @@ Open your browser and go to `http://ec2-public-ip`. You should see your applicat
 with a built-in Load Balancer.
 
 ```bash
-            Start and Daemonize any application:
-            $ pm2 start app.js
+        Start and Daemonize any application:
+        $ pm2 start app.js
 
-            Load Balance 4 instances of api.js:
-            $ pm2 start api.js -i 4
+        Load Balance 4 instances of api.js:
+        $ pm2 start api.js -i 4
 
-            Monitor in production:
-            $ pm2 monitor
+        Monitor in production:
+        $ pm2 monitor
 
-            Make pm2 auto-boot at server restart:
-            $ pm2 startup
+        Make pm2 auto-boot at server restart:
+        $ pm2 startup
 
 ```
