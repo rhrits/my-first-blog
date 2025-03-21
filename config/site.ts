@@ -1,6 +1,6 @@
 export const siteConfig = {
     name: "HritikBlog",
-    url: "https://example.com",
+    url: "https://hrits.tech",
     description: "This space is dedicated to sharing the latest in technology and coding. Here, you'll find insightful articles and updates designed to help you stay ahead in the ever-evolving world of tech.",
     author: "Hritik",
     links: {
